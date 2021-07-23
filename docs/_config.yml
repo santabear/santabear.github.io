@@ -22,8 +22,8 @@ title: Santa Bears
 email: santabear@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Catalog of the Dayton Hudson Santa Bear line of merchandise.
-baseurl: "/home" # the subpath of your site, e.g. /blog
-url: https://santabear.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://santabear.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kefalonia_
 github_username:  phaeacia
 
